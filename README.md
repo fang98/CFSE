@@ -8,14 +8,14 @@ Instructions for reproducing the experiments reported in Table 3 and Table 4.
 - PyTorch 1.8.1
 - CUDA 11.1
 
-## Link Sign Prrediction
+## Link Sign Prediction
 
 To preprocess data, follow these steps:
 
 1. Execute `python preprocessing.py` to create the train/test sets for the link sign prediction task.
 2. Execute `python main.py` for link sign prediction in signed directed networks.
 
-## Link Prrediction
+## Link Prediction
 
 To conduct experiments, follow these steps:
 
