@@ -10,7 +10,7 @@ Instructions for reproducing the experiments reported in Table 3 and Table 4.
 
 ## Link Sign Prediction
 
-To preprocess data, follow these steps:
+To conduct experiments, follow these steps:
 
 1. Execute `python preprocessing.py` to create the train/test sets for the link sign prediction task.
 2. Execute `python CFSE_signed_directed.py` for link sign prediction in signed directed networks.
